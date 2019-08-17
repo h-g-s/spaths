@@ -11,7 +11,7 @@ $ make
 To solve the included example rome99 and compute the time of 1000 executions:
 
 ```console
- ./dijkstra ~/inst/gr/rome99.gr 1000
+ ./dijkstra ./data/rome99.gr 1000
 ```
 
 
